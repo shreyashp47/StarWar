@@ -149,12 +149,12 @@ fun sortMapDescending(map: HashMap<Int, Users>): Map<Int, Users> {
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/shreyashp47/StarWar-flipkart-assignment-app/blob/master/SS/Screenshot_20250616_093736.png" alt="Main Leaderboard" width="200"/>
-      <br><b><h3>🏆 Main Leaderboard Screen</h3></b>
+      <img src="https://github.com/shreyashp47/StarWar-flipkart-assignment-app/blob/master/ss/Screenshot_20250616_093736.png" alt="Main Leaderboard" width="200"/>
+      <br><h3>🏆 Main Leaderboard Screen</h3></b>
     </td>
     <td align="center">
       <img src="https://github.com/shreyashp47/StarWar-flipkart-assignment-app/blob/master/ss/Screenshot_20250616_093755.png" alt="Match Details" width="200"/>
-      <br><b><h3>📊 Match Details</h3></b>
+      <br><h3>📊 Match Details</h3></b>
     </td>
   </tr>
 </table>
