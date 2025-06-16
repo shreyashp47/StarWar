@@ -9,7 +9,7 @@
 > **Flipkart Assignment Project** - Completed in 3 hours, approved, and advanced to next interview round
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x630/1a1a1a/ffffff?text=Star+War+Android+App" alt="Star War App Banner" width="100%">
+  <img src="https://github.com/shreyashp47/StarWar-flipkart-assignment-app/blob/master/ss/ChatGPT%20Image%20Jun%2016%2C%202025%2C%2010_24_14%20PM.png" alt="Star War App Banner" width="100%">
 </div>
 
 ## 📱 Overview
