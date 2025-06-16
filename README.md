@@ -146,22 +146,20 @@ fun sortMapDescending(map: HashMap<Int, Users>): Map<Int, Users> {
 ## 📸 Screenshots
 
 <div align="center">
-  <h3>🏆 Main Leaderboard Screen</h3>
-  <img src="https://via.placeholder.com/300x600/2196F3/ffffff?text=Leaderboard+Screen" alt="Leaderboard Screen" width="250">
-  <p><em>Dynamic leaderboard with sortable rankings</em></p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shreyashp47/StarWar-flipkart-assignment-app/blob/main/SS/Screenshot_20250616_093736.png" alt="Main Leaderboard" width="200"/>
+      <br><b><h3>🏆 Main Leaderboard Screen</h3></b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/shreyashp47/StarWar-flipkart-assignment-app/blob/main/ss/Screenshot_20250616_093755.png" alt="Match Details" width="200"/>
+      <br><b><h3>📊 Match Details</h3></b>
+    </td>
+  </tr>
+</table>
 </div>
 
-<div align="center">
-  <h3>🔄 Sorting Functionality</h3>
-  <img src="https://via.placeholder.com/300x600/4CAF50/ffffff?text=Sorting+Feature" alt="Sorting Feature" width="250">
-  <p><em>Toggle between High-to-Low and Low-to-High sorting</em></p>
-</div>
-
-<div align="center">
-  <h3>📊 Match Details</h3>
-  <img src="https://via.placeholder.com/300x600/FF9800/ffffff?text=Match+Details" alt="Match Details" width="250">
-  <p><em>Detailed view of user matches and statistics</em></p>
-</div>
 
 ### 🎯 Key UI Features
 - **Material Design**: Clean, modern interface following Google's design guidelines
